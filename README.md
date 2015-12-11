@@ -16,8 +16,11 @@ with their latest versions.
 
 # Dependencies
 Scapy: http://www.secdev.org/projects/scapy/ (2.3.1 used)
+
 matplotlib: https://github.com/matplotlib/matplotlib.git
+
 Python-IVI: Included in this repository
+
 Wireshark: https://www.wireshark.org/download.html
 
 # How To Use:
