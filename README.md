@@ -9,7 +9,7 @@ Have a question or find a problem? Email me at: elopezga@ucsd.edu
 This repository contains the tools to be able to run bit error and packet error
 analysis used by the paper: Measuring Bit Error and Packet Error with Python.
 
-Link to Paper:
+Link to Paper: https://drive.google.com/file/d/0B8I6-MtRe_U0bVlrSUxoQzgyMWM/view?usp=sharing
 
 Note that some dependencies are not included in this repository, but are linked
 with their latest versions.
